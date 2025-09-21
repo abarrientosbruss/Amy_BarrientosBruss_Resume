@@ -1,8 +1,6 @@
-public/
-docs/
-img/
+mysite/public/
 part1/
 part2/
-README.md
-
+.DS_Store
+.hugo_build.lock
 
