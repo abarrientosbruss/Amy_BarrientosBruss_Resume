@@ -1,11 +1,11 @@
 about:
-  name: Mert Bakir
-  tagline: Data Scientist
+  name: Amy Bruss Barrientos
+  tagline: MIS 547 Student
   phone: "5070*4****"
-  email: yourmail@yourdomain
+  email: amybarrientos@arizona.edu
   links:
-    - title: /in/mertbakir
-      url: https://tr.linkedin.com/in/mertbakir
+    - title: /in/amybrussbarrientos
+      url: https://www.linkedin.com/notifications/?filter=all
       icon: fab fa-linkedin
     - title: mertbakir
       url: https://gitlab.com/mertbakir/
@@ -14,10 +14,7 @@ about:
       url: https://github.com/mertbakir
       icon: fab fa-github
   details: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-    Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta.
-
-    Nam suscipit nisi a bibendum lacinia.
+    Born and rasised in Tucson, AZ. First generation student, and daughter of immigrants. I love halloween, and flowers.
 
 
 skills:
@@ -43,14 +40,12 @@ interests:
   - Optimization Problems
 
 languages:
-  - name: Turkish
+  - name: Spanish
     level: Native
 
   - name: English
-    level: Professional
-    certificates:
-      - "YDS: 86.25 - 2018"
-      - "TOEFL: 109 - 2021"
+    level: Native
+
 
 # This will use the default widget: "details-list"
 awards:

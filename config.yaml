@@ -1,6 +1,6 @@
 baseURL: "http://localhost:1313/"
 languageCode: "en-us"
-title: "My Hugo Site"
+title: "Amy Bruss Barrientos Resume"
 theme: "resume-a4"
 enableAvatar: true
 
@@ -56,7 +56,7 @@ params:
   header:
     avatar: true
     avatar_image: avatar.jpg
-    contact: false
+    contact: true
     tagline: true
     links: false
   side:

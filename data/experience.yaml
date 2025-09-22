@@ -1,36 +1,22 @@
-- company: Company 1
+- company: Spirt Halloween
   roles:
     - role: Data Scientist
       details: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-        Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
-        Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit
+        This homework was so spooky, but I think I got it! 
       date: 10.2020 -  Present
 
-- company: Company 2
+- company: University of Arizona Information Technologies Services
   page: 1
   roles: 
-    - role: Senior Software Developer
-      tools: SQL, Flink, Kafka
+    - role: Student Business Analyst
+      tools: JIRA, Confluence
       details: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-        Aenean nec volutpat arcu. Maecenas quis tempus risus.
+       Assisted the Student Tech team with their business needs and tested functional needs.
       date: 06.2019 - 10.2020
     
-    - role: Junior Software Developer
+    - role: Dog Lover
       tools: HTML, PHP, CSS
       date: 10.2018 - 06.2019
-      details: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-        Aenean nec volutpat arcu. Maecenas quis tempus risus.
-
-- company: Company 1
-  page: 2
-  roles:
-    - role: Junior Software Developer
-      tools: C#, Python, Postgresql
-      details: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-        Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
-        Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit
-      date: 2017 - 2018
+      details: | 
+        Assisted with providing dog emotional support.
+    
